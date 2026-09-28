@@ -1,7 +1,7 @@
 # Fellfresse-Plex-EPG
 
 ## About
-Provides a 6 Days XMLTV EPG for PLEX DACH TV service.
+XMLTV EPG for PLEX DACH TV service.
 
 ## Usage
 Grab the XMLTV file from this link and paste it into your favorite IPTV client:
